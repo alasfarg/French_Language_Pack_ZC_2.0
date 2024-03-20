@@ -1,4 +1,7 @@
 <?php
+
+@setlocale(LC_TIME, ['fr_FR', 'fr_FR.utf8', 'fr', 'French_France.1252']);
+
 $define = [
     'CONNECTION_TYPE_UNKNOWN' => '\'%s\'n\'est pas un type de connexion valide pour générer des URLs'.PHP_EOL.'%s'.PHP_EOL,
     'HEADER_ALT_TEXT' => 'Admin Powered by Zen Cart :: L\'art du commerce électronique',
