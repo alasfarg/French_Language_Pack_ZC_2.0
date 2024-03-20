@@ -3,6 +3,12 @@
 @setlocale(LC_TIME, ['fr_FR', 'fr_FR.utf8', 'fr', 'French_France.1252']);
 
 $define = [
+    'ATTRIBUTE_POSSIBLE_OPTIONS_NAME_WARNING_DUPLICATE' => 'Ajout Possible D\'un Doublon de Nom d\' Options',
+    'ATTRIBUTE_POSSIBLE_OPTIONS_VALUE_WARNING_DUPLICATE' => 'Ajout Possible D\'un Doublon d\'une Valeur d\' Options',
+    'ATTRIBUTE_WARNING_DUPLICATE' => 'Attribut en Doublon - L\'Attribut n\'a pas été Ajouté',
+    'ATTRIBUTE_WARNING_DUPLICATE_UPDATE' => 'L\' Attribut en Doublon Existe - L\' Attribut n\'a pas changé',
+    'ATTRIBUTE_WARNING_INVALID_MATCH' => 'L\'Attribut de l\' Option et la Valeur de l\' Option ne concordent pas - L\'Attribut n\'a pas été Ajouté',
+    'ATTRIBUTE_WARNING_INVALID_MATCH_UPDATE' => 'L\'Attribut de l\' Option et la Valeur de l\' Option ne concordent pas - L\' Attribut n\'a pas changé',
     'CONNECTION_TYPE_UNKNOWN' => '\'%s\'n\'est pas un type de connexion valide pour générer des URLs'.PHP_EOL.'%s'.PHP_EOL,
     'HEADER_ALT_TEXT' => 'Admin Powered by Zen Cart :: L\'art du commerce électronique',
     'HEADER_LOGO_WIDTH' => '192',
