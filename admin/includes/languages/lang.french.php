@@ -3,6 +3,7 @@
 @setlocale(LC_TIME, ['fr_FR', 'fr_FR.utf8', 'fr', 'French_France.1252']);
 
 $define = [
+    'BOX_COUPON_REFERRERS' => 'Réferents du Coupon',
     'ATTRIBUTE_POSSIBLE_OPTIONS_NAME_WARNING_DUPLICATE' => 'Ajout Possible D\'un Doublon de Nom d\' Options',
     'ATTRIBUTE_POSSIBLE_OPTIONS_VALUE_WARNING_DUPLICATE' => 'Ajout Possible D\'un Doublon d\'une Valeur d\' Options',
     'ATTRIBUTE_WARNING_DUPLICATE' => 'Attribut en Doublon - L\'Attribut n\'a pas été Ajouté',
