@@ -2,15 +2,11 @@
 $define = [
     'HEADING_TITLE_MEDIA_MANAGER' => 'Gestion des Médias',
     'TABLE_HEADING_MEDIA' => 'Nom de la collection',
-    'TABLE_HEADING_ACTION' => 'Action',
     'TEXT_HEADING_NEW_MEDIA_COLLECTION' => 'Nouvelle collection de médias',
     'TEXT_NEW_INTRO' => 'Veuillez renseigner les détails concernant la nouvelle collection de médias ci-dessous',
     'TEXT_MEDIA_COLLECTION_NAME' => 'Nom de la collection de médias',
     'TEXT_MEDIA_EDIT_INSTRUCTIONS' => 'Utilisez la section ci-dessus pour changer le nom de la collection de médias, puis cliquez sur le bouton Sauvegarder.<br /><br />
                                         Utilisez la section ci-dessous pour ajouter ou enlever des clips média à la collection de médias.',
-    'TEXT_DATE_ADDED' => 'Date de création',
-    'TEXT_LAST_MODIFIED' => 'Denière modification:',
-    'TEXT_PRODUCTS' => 'Produits liés:',
     'TEXT_CLIPS' => 'Clips liés:',
     'TEXT_NO_PRODUCTS' => 'Aucun produit dans cette catégorie',
     'TEXT_HEADING_EDIT_MEDIA_COLLECTION' => 'Éditer la collection de médias',
