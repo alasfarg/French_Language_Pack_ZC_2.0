@@ -1,12 +1,6 @@
 <?php
 $define = [
     'HEADING_TITLE' => 'Bulletins et Annonces de Produits',
-    'TABLE_HEADING_NEWSLETTERS' => 'Bulletins',
-    'TABLE_HEADING_SIZE' => 'Taille',
-    'TABLE_HEADING_MODULE' => 'Module',
-    'TABLE_HEADING_SENT' => 'Envoyé',
-    'TABLE_HEADING_STATUS' => 'Statut',
-    'TABLE_HEADING_ACTION' => 'Action',
     'TEXT_NEWSLETTER_MODULE' => 'Module :',
     'TEXT_NEWSLETTER_TITLE' => 'Sujet :',
     'TEXT_NEWSLETTER_CONTENT' => 'Contenu <br />\'Text-Only\' :',
