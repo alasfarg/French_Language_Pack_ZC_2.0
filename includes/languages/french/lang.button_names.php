@@ -78,6 +78,7 @@ $define = [
     'BUTTON_SOLD_OUT_ALT' => 'Épuisé',
     'BUTTON_SOLD_OUT_SMALL_ALT' => 'Épuisé',
     'BUTTON_SUBMIT_ALT' => 'Soumettre les informations',
+    'BUTTON_SUBMIT_GO_ALT' => 'Allez',
     'BUTTON_UNSUBSCRIBE' => 'Se désabonner',
     'BUTTON_UPDATE_ALT' => 'Actualiser',
     'BUTTON_VIEW_SMALL_ALT' => 'Visualiser',
