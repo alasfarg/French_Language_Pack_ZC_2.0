@@ -7,7 +7,6 @@ $define = [
     'TEXT_PAGE_PARAMS' => 'Paramètres pour la page',
     'TEXT_MENU_KEY' => 'Menu de rattachement',
     'TEXT_DISPLAY_ON_MENU' => 'Afficher dans le menu ?',
-    'TEXT_SORT_ORDER' => 'Classement',
     'TEXT_EXAMPLE_PAGE_KEY' => '(ex. myModPageName)',
     'TEXT_EXAMPLE_LANGUAGE_KEY' => '(ex. BOX_MY_MOD_PAGE_NAME)',
     'TEXT_EXAMPLE_MAIN_PAGE' => '(ex. FILENAME_PAGE_NAME)',
