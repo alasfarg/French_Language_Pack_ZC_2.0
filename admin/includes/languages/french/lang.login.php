@@ -3,7 +3,6 @@ $define = [
     'HEADING_TITLE' => 'Connexion Admin',
     'HEADING_TITLE_EXPIRED' => 'Connexion Admin - Mot de passe expiré',
     'TEXT_SUBMIT' => 'Soumettre',
-    'TEXT_ADMIN_NAME' => 'Utilisateur: ',
     'TEXT_ADMIN_PASS' => 'Mot de passe: ',
     'TEXT_ADMIN_OLD_PASSWORD' => 'Ancien mot de passe:',
     'TEXT_ADMIN_NEW_PASSWORD' => 'Nouveau mot de passe:',
