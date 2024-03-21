@@ -33,6 +33,7 @@ Vous devez enregistrer ces données pour les utiliser dans les enquêtes sur les
     'TEXT_EXPORTFILTER2' => 'AVIS - Informations importantes, qui devraient être revues périodiquement',
     'TEXT_EXPORTFILTER3' => 'AVERTISSEMENT - Activité qui devrait être revue quotidiennement',
     'TEXT_EXPORTFILTER4' => 'AVIS et AVERTISSEMENT (combinaison courante pour révision).',
+    'TEXT_EXPORTFILTER_USER' => 'Tous les Utilisateurs Admin',
     'TEXT_INTERPRETING_LOG_DATA' => '<p><strong>Interprétation des données du journal</strong></p><ul>
 <li><strong>Gravité</strong> - les normes de journalisation décrivent généralement les niveaux de gravité comme suit :
  <ul>
