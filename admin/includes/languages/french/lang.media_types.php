@@ -3,7 +3,6 @@ $define = [
     'HEADING_TITLE' => 'Types de Médias',
     'TABLE_HEADING_MEDIA_TYPE' => 'Type de Média',
     'TABLE_HEADING_MEDIA_TYPE_EXT' => 'Extension',
-    'TABLE_HEADING_ACTION' => 'Action',
     'TEXT_HEADING_NEW_MEDIA_TYPE' => 'Nouveau type de média',
     'TEXT_HEADING_EDIT_MEDIA_TYPE' => 'Éditer le type de média',
     'TEXT_HEADING_DELETE_MEDIA_TYPES' => 'Supprimer le type de média',
