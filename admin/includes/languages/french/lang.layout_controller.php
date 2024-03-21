@@ -42,7 +42,7 @@ $define = [
     'TEXT_OFF' => ' OFF ',
     'TEXT_LEFT' => ' GAUCHE ',
     'TEXT_RIGHT' => ' DROITE ',
-    'TEXT_CAUTION_EDITING_NOT_LIVE_TEMPLATE' => 'ATTENTION : Vous modifiez les paramètres d\'un modèle qui n\'est pas le modèle principal utilisé par les clients.',
+    'TEXT_CAUTION_EDITING_NOT_LIVE_TEMPLATE' => 'ATTENTION : Vous modifiez les paramètres d\'un modèle qui n\'est pas le modèle principal utilisé par les clients.',
     'TEXT_RESET_SETTINGS' => 'Réinitialiser les options',
     'TEXT_ORIGINAL_DEFAULTS' => '[Original/Master Zen Cart Defaults]',
 ];
