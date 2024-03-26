@@ -12,7 +12,6 @@ $define = [
     'EMAIL_SEPARATOR' => '--------------------',
     'EMAIL_COUPON_INCENTIVE_HEADER' => 'Félicitations ! Pour faire de votre prochaine visite sur notre boutique en ligne une expérience plus rémunératrice, veuillez trouver ci-dessous un bon de réduction créé uniquement pour vous !'."\n\n",
     'EMAIL_COUPON_REDEEM' => 'Pour utiliser le bon de réduction, entrez le code '.TEXT_GV_REDEEM.' lors de l\'encaissement: <strong>%s</strong>'."\n\n",
-    'TEXT_COUPON_HELP_DATE' => '<p>Le bon est valide entre %s et %s</p>',
     'EMAIL_GV_INCENTIVE_HEADER' => 'Pour vous remercier de votre passage aujourd\'hui, nous vous adressons un '.TEXT_GV_NAME.' d\'une valeur de %s !'."\n",
     'EMAIL_GV_REDEEM' => 'Le '.TEXT_GV_NAME.' '.TEXT_GV_REDEEM.' est de: %s '."\n\n".'Vous pourrez entrer le '.TEXT_GV_REDEEM.' lors de l\'encaissement, après avoir fait vos choix dans la boutique. ',
     'EMAIL_GV_LINK' => ' Ou, vous pouvez en obtenir le remboursement en suivant ce lien: '."\n",
