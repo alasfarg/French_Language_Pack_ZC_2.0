@@ -1,6 +1,6 @@
 <?php
 $define = [
-    'FOOTER_TEXT_BODY' => 'Copyright &copy; ' . date('Y') . ' <a href="' . zen_href_link('%%FILENAME_DEFAULT%%') . '">' . '%%STORE_NAME%%' . '</a>. Propulsé par <a href="https://www.zen-cart.com" rel="noopener noreferrer" target="_blank">Zen Cart</a>',
+    'FOOTER_TEXT_BODY' => 'Copyright &copy; ' . date('Y') . ' <a href="' . zen_href_link(FILENAME_DEFAULT) . '">' . STORE_NAME . '</a>. Propulsé par <a href="https://www.zen-cart.com" rel="noopener noreferrer" target="_blank">Zen Cart</a>',
     'DATE_FORMAT_LONG' => '%A %d %B %Y',
     'DATE_FORMAT' => 'd/m/Y',
     'LANGUAGE_CURRENCY' => 'EUR',
