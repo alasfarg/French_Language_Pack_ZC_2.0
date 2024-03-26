@@ -1,0 +1,2 @@
+<p>Ce fichier se trouve dans includes / languages / french / html_includes / define_shopping_cart.php</p>
+<p>Modifiez ce texte (celui que vous lisez actuellement) dans Admin> Outils> Définir l'éditeur de pages pour écrire votre message de panier d'achat personnel ici</p>
