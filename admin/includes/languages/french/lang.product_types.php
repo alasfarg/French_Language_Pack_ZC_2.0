@@ -1,0 +1,32 @@
+<?php
+$define = [
+    'HEADING_TITLE' => 'Types de Produits',
+    'HEADING_TITLE_LAYOUT' => 'Options de mise en page du type de produit : ',
+    'TABLE_HEADING_PRODUCT_TYPES' => 'Types de produits',
+    'TABLE_HEADING_PRODUCT_TYPES_ALLOW_ADD_TO_CART' => 'Ajouter<br />au panier',
+    'TABLE_HEADING_ACTION' => 'Action',
+    'TABLE_HEADING_CONFIGURATION_TITLE' => 'Intitulé',
+    'TABLE_HEADING_CONFIGURATION_VALUE' => 'Valeur',
+    'TEXT_HEADING_NEW_PRODUCT_TYPE' => 'Nouveau type de produit',
+    'TEXT_HEADING_EDIT_PRODUCT_TYPE' => 'Éditer le type de produit',
+    'TEXT_HEADING_DELETE_PRODUCT_TYPE' => 'Supprimer le type de produit',
+    'TEXT_PRODUCT_TYPES' => 'Types de produit :',
+    'TEXT_PRODUCT_TYPES_HANDLER' => 'Page de gestion :',
+    'TEXT_PRODUCT_TYPES_ALLOW_ADD_CART' => 'Ce produit peut être ajouté au panier :',
+    'TEXT_DATE_ADDED' => 'Date de création :',
+    'TEXT_LAST_MODIFIED' => 'Dernière modification :',
+    'TEXT_PRODUCTS' => 'Produits :',
+    'TEXT_PRODUCTS_IMAGE_DIR' => 'Uploader vers le répertoire :',
+    'TEXT_MASTER_TYPE' => 'Ce type de produit doit être considéré comme un sous-type de ',
+    'TEXT_NEW_INTRO' => 'Veuillez insérer les informations requises pour le nouveau fabricant',
+    'TEXT_EDIT_INTRO' => 'Veuillez effectuer les changements nécessaires',
+    'TEXT_PRODUCT_TYPES_NAME' => 'Nom du type de produit :',
+    'TEXT_PRODUCT_TYPES_IMAGE' => 'Image par défaut du type de produit :',
+    'TEXT_DELETE_INTRO' => 'Êtes-vous certain(e) de vouloir supprimer ce type de produit ?',
+    'TEXT_DELETE_IMAGE' => 'Supprimer l\'image par défaut du type de produit ?',
+    'TEXT_DELETE_PRODUCTS' => 'Supprimer les produits de ce type de produit ? (en incluant les avis, les promotions et les produits attendus)',
+    'TEXT_DELETE_WARNING_PRODUCTS' => '<b>ATTENTION :</b> Il y a %s produit(s) encore associé(s) à ce type de produit !',
+    'IMAGE_LAYOUT' => 'Paramètres de mise en page',
+];
+
+return $define;
