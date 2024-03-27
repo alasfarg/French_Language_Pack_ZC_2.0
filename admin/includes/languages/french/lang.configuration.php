@@ -1,11 +1,5 @@
 <?php
 $define = [
-    'TABLE_HEADING_CONFIGURATION_TITLE' => 'Intitulé',
-    'TABLE_HEADING_CONFIGURATION_VALUE' => 'Valeur',
-    'TABLE_HEADING_ACTION' => 'Action',
-    'TEXT_INFO_EDIT_INTRO' => 'Veuillez effectuer les changements nécessaires',
-    'TEXT_INFO_DATE_ADDED' => 'Date de création:',
-    'TEXT_INFO_LAST_MODIFIED' => 'Dernière modification:',
     'TEXT_MIN_ADMIN_USER_LENGTH' => 'Doit avoir une longueur de 4 ou plus.',
     'TEXT_DATA_OUT_OF_RANGE' => 'Données hors limites',
     'TEXT_MIN_GENERAL_ADMIN' => 'La valeur minimale entrée n\'était pas un nombre entier.',
@@ -57,7 +51,6 @@ $define = [
     'TEXT_MAX_ADMIN_DISPLAY_RESULTS_CATEGORIES_LENGTH' => 'La valeur doit être un entier.',
     'TEXT_MAX_ADMIN_DISPLAY_PRODUCTS_LISTING_LENGTH' => 'La valeur doit être un entier.',
     'TEXT_MAX_ADMIN_ROW_LISTS_OPTIONS_LENGTH' => 'La valeur doit être un entier.',
-    'TEXT_MAX_ADMIN_ROW_LISTS_ATTRIBUTES_CONTROLLER_LENGTH' => 'La valeur doit être un entier.',
     'TEXT_MAX_ADMIN_DISPLAY_SEARCH_RESULTS_DOWNLOADS_MANAGER_LENGTH' => 'La valeur doit être un entier.',
     'TEXT_MAX_ADMIN_DISPLAY_SEARCH_RESULTS_FEATURED_ADMIN_LENGTH' => 'La valeur doit être un entier.',
     'TEXT_MAX_ADMIN_DISPLAY_SEARCH_RESULTS_FEATURED_LENGTH' => 'La valeur doit être un entier.',
