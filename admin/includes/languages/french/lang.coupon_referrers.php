@@ -21,7 +21,7 @@ $define = [
     'TEXT_NO_REFERRERS_FOUND' => 'Aucun référent trouvé. Cliquez sur INSÉRER pour en ajouter un.',
     'TEXT_DISPLAY_NUMBER_OF_REFERRERS' => 'Affichage de <strong>%d</strong> à <strong>%d</strong> (sur <strong>%d</strong> référents)',
     'ERROR_REFERRER_DOMAIN_UNIQUE_REQUIRED' => 'ERREUR : le domaine référent est obligatoire et doit être unique.',
-    'ERROR_REFERRER_DOMAIN_ALREADY_EXISTS' => 'ERREUR : le domaine référent existe déjà. Impossible d'ajouter des domaines en double.',
+    'ERROR_REFERRER_DOMAIN_ALREADY_EXISTS' => 'ERREUR : le domaine référent existe déjà. Impossible d\'ajouter des domaines en double.',
     'ERROR_COUPON_SELECTION_REQUIRED' => 'ERREUR : Vous devez sélectionner un coupon à attribuer au domaine référent.',
     'ERROR_INVALID_COUPON_SPECIFIED' => 'ERREUR : Coupon non valide sélectionné.',
 ];
