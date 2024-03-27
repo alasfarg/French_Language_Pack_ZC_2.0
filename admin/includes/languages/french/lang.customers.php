@@ -1,12 +1,11 @@
 <?php
 $define = [
     'HEADING_TITLE' => 'Clients',
-    'TABLE_HEADING_ID' => 'ID#',
     'TABLE_HEADING_FIRSTNAME' => 'Prénom',
     'TABLE_HEADING_LASTNAME' => 'Nom',
     'TABLE_HEADING_ACCOUNT_CREATED' => 'Compte<br \>créé le',
     'TABLE_HEADING_LOGIN' => 'Dernière connexion',
-    'TABLE_HEADING_ACTION' => 'Action',
+    'TABLE_HEADING_REGISTRATION_IP' => 'IP d\'enregistrement',
     'TABLE_HEADING_PRICING_GROUP' => 'Groupe de Prix',
     'TABLE_HEADING_AUTHORIZATION_APPROVAL' => 'Autorisé',
     'TABLE_HEADING_GV_AMOUNT' => 'Reliquat<br>chèques cadeaux',
@@ -14,6 +13,8 @@ $define = [
     'TEXT_DATE_ACCOUNT_LAST_MODIFIED' => 'Dernière modification :',
     'TEXT_INFO_DATE_LAST_LOGON' => 'Dernière connexion :',
     'TEXT_INFO_NUMBER_OF_LOGONS' => 'Nombre de connexions :',
+    'TEXT_LAST_LOGIN_IP' => 'IP de la dernière connexion:',
+    'TEXT_REGISTRATION_IP' => 'IP d\'enregistrement:',
     'TEXT_INFO_COUNTRY' => 'Pays :',
     'TEXT_INFO_NUMBER_OF_REVIEWS' => 'Nombre d\'avis :',
     'TEXT_DELETE_INTRO' => 'Êtes-vous certain(e) de vouloir supprimer ce client ?',
@@ -54,6 +55,11 @@ $define = [
     'TEXT_INFO_ADDRESS_BOOK_COUNT_SINGLE' => '',
     'EMP_BUTTON_PLACEORDER_ALT' => 'Passer une commande pour ce client',
     'EMP_BUTTON_PLACEORDER' => 'Passer la commande',
+    'TEXT_CUSTOMER_GROUPS' => 'Groupes de clients',
+    'TABLE_HEADING_WHOLESALE_LEVEL' => 'Niveau de gros',
+    'TEXT_WHOLESALE_LEVEL' => 'Niveau de gros:',
+    'HELPTEXT_WHOLESALE_LEVEL' => 'Saisissez 0 pour les clients « Détail » ou un niveau de tarification « En gros ». Un client peut bénéficier d\'un niveau de prix de gros ou faire partie d\'un groupe de prix réduits, mais pas les deux.',
+
 ];
 
 return $define;
