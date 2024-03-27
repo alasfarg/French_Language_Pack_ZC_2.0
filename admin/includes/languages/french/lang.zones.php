@@ -1,11 +1,8 @@
 <?php
 $define = [
     'HEADING_TITLE' => 'Zones',
-    'TABLE_HEADING_COUNTRY_NAME' => 'Pays',
     'TABLE_HEADING_ZONE_NAME' => 'Zone',
     'TABLE_HEADING_ZONE_CODE' => 'Code',
-    'TABLE_HEADING_ACTION' => 'Action',
-    'TEXT_INFO_EDIT_INTRO' => 'Veuillez effectuer les changements nécessaires',
     'TEXT_INFO_ZONES_NAME' => 'Nom de la zone :',
     'TEXT_INFO_ZONES_CODE' => 'Code de la zone :',
     'TEXT_INFO_COUNTRY_NAME' => 'Pays :',
