@@ -1,11 +1,8 @@
 <?php
 $define = [
     'HEADING_TITLE' => 'Pays',
-    //'TABLE_HEADING_COUNTRY_NAME' => 'Pays',
     'TABLE_HEADING_COUNTRY_CODES' => 'Codes ISO',
     'TABLE_HEADING_COUNTRY_STATUS' => 'Statut',
-    //'TABLE_HEADING_ACTION' => 'Action',
-    //'TEXT_INFO_EDIT_INTRO' => 'Veuillez effectuer les changements nécessaires',
     'TEXT_INFO_COUNTRY_NAME' => 'Nom:',
     'TEXT_INFO_COUNTRY_CODE_2' => 'Code ISO (2) :',
     'TEXT_INFO_COUNTRY_CODE_3' => 'Code ISO (3) :',
