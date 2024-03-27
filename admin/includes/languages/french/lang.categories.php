@@ -1,7 +1,6 @@
 <?php
 $define = [
     'HEADING_TITLE' => 'Catégories',
-    'TEXT_EDIT_INTRO' => 'Veuillez effectuer les changements nécessaires',
     'TEXT_EDIT_CATEGORIES_NAME' => 'Nom de la catégorie :',
     'TEXT_CATEGORIES_DESCRIPTION' => 'Description de catégorie :',
     'TEXT_CATEGORIES_IMAGE' => 'Image de catégorie :',
