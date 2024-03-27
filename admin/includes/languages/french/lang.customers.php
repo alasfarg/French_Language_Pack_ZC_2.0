@@ -58,7 +58,7 @@ $define = [
     'TEXT_CUSTOMER_GROUPS' => 'Groupes de clients',
     'TABLE_HEADING_WHOLESALE_LEVEL' => 'Niveau de gros',
     'TEXT_WHOLESALE_LEVEL' => 'Niveau de gros:',
-    'HELPTEXT_WHOLESALE_LEVEL' => 'Saisissez 0 pour les clients « Détail » ou un niveau de tarification « En gros ». Un client peut bénéficier d\'un niveau de prix de gros ou faire partie d\'un groupe de prix réduits, mais pas les deux.',
+    'HELPTEXT_WHOLESALE_LEVEL' => 'Saisissez 0 pour les clients « Détail » ou un niveau de tarification « En gros ». Un client peut bénéficier d\'un niveau de prix de gros ou faire partie d\'un groupe de prix réduits, mais pas les deux.',
 
 ];
 
