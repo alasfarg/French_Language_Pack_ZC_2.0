@@ -174,16 +174,6 @@ $define = [
     'TEXT_CCVAL_ERROR_INVALID_NUMBER' => 'Le numéro de carte de crédit entré n\'est pas valide. Veuillez vérifier le numéro et réessayer.',
     'TEXT_CCVAL_ERROR_UNKNOWN_CARD' => 'Le numéro de carte de crédit commençant par %s n\'a pas été saisi correctement ou nous n\'acceptons pas ce type de carte. Veuillez réessayer ou utiliser une autre carte de crédit.',
     'BOX_INFORMATION_DISCOUNT_COUPONS' => 'Coupons de réduction',
-    'BOX_INFORMATION_GV' => TEXT_GV_NAME.' FAQ',
-    'VOUCHER_BALANCE' => TEXT_GV_NAME.' Balance ',
-    'BOX_HEADING_GIFT_VOUCHER' => TEXT_GV_NAME.'Compte',
-    'GV_FAQ' => TEXT_GV_NAME.' FAQ',
-    'ERROR_REDEEMED_AMOUNT' => 'Félicitations, vous avez utilisé ',
-    'ERROR_NO_REDEEM_CODE' => 'Vous n\'avez pas entré un '.TEXT_GV_REDEEM.'.',
-    'ERROR_NO_INVALID_REDEEM_GV' => 'Invalide '.TEXT_GV_NAME.' '.TEXT_GV_REDEEM,
-    'TABLE_HEADING_CREDIT' => 'Crédits disponibles',
-    'TEXT_SEND_OR_SPEND' => 'Vous avez un solde disponible sur votre compte '.TEXT_GV_NAME.'. Vous pouvez le dépenser ou l\'envoyer à quelqu\'un. Pour l\'envoyer, cliquez sur le bouton ci-dessous.',
-    'TEXT_BALANCE_IS' => 'Votre solde '.TEXT_GV_NAME.' est de : ',
     'TEXT_AVAILABLE_BALANCE' => 'Votre compte '.TEXT_GV_NAME,
     'PAYMENT_METHOD_GV' => 'Chèque cadeau/Bon',
     'PAYMENT_MODULE_GV' => 'CC/BR',
@@ -378,4 +368,23 @@ $define = [
     'TEXT_OPTION_DIVIDER' => '&nbsp;-&nbsp;',
 ];
 
+// Definitions that require references to other definitions
+    $define['ATTRIBUTES_QTY_PRICE_SYMBOL'] = zen_image(DIR_WS_TEMPLATE_ICONS . 'icon_status_green.gif', $define['TEXT_ATTRIBUTES_QTY_PRICE_HELP_LINK'], 10, 10) . '&nbsp;';
+    $define['BOX_HEADING_GIFT_VOUCHER'] = $define['TEXT_GV_NAME'] . ' Compte';
+    $define['BOX_INFORMATION_GV'] = $define['TEXT_GV_NAME'] . ' FAQ';
+    $define['ENTRY_EMAIL_PREFERENCE'] = 'Newsletter and Email Details';
+    if (ACCOUNT_NEWSLETTER_STATUS === '0') {
+       $define['ENTRY_EMAIL_PREFERENCE'] = 'Email Details';
+    }
+    $define['ERROR_NO_INVALID_REDEEM_GV'] = 'Invalide ' . $define['TEXT_GV_NAME'] . ' ' . $define['TEXT_GV_REDEEM'];
+    $define['ERROR_NO_REDEEM_CODE'] = 'Vous n\'avez pas entré un ' . $define['TEXT_GV_REDEEM'] . '.';
+    $define['ERROR_REDEEMED_AMOUNT'] = 'Félicitations, vous avez utilisé ';
+    $define['GV_FAQ'] = $define['TEXT_GV_NAME'] . ' FAQ';
+    $define['TABLE_HEADING_CREDIT'] = 'Crédits disponibles';
+    $define['TEXT_AVAILABLE_BALANCE'] = 'Votre ' . $define['TEXT_GV_NAME'] . ' Compte';
+    $define['TEXT_BALANCE_IS'] = 'Votre ' . $define['TEXT_GV_NAME'] . ' solde est de: ';
+    $define['TEXT_COUPON_GV_RESTRICTION'] = '<p class="smallText">Les coupons de réduction ne peuvent pas être appliqués à l\'achat de ' . $define['TEXT_GV_NAMES'] . '. Limite de 1 coupon par commande.</p>';
+    $define['TEXT_SEND_OR_SPEND'] = 'Vous avez un solde disponible sur votre compte ' . $define['TEXT_GV_NAME'] . ' . Vous pouvez le dépenser ou l\'envoyer à quelqu\'un. Pour l\'envoyer, cliquez sur le bouton ci-dessous.';
+    $define['VOUCHER_BALANCE'] = $define['TEXT_GV_NAME'] . ' Balance ';
+    
 return $define;
