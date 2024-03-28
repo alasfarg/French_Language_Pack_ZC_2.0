@@ -353,7 +353,7 @@ $define = [
     'TABLE_HEADING_PRODUCTS' => 'Nom Article',
     'TABLE_HEADING_TOTAL' => 'Total',
     'TABLE_HEADING_PRIVACY_CONDITIONS' => 'Confidentialité',
-    'TEXT_PRIVACY_CONDITIONS_DESCRIPTION' => 'Veuillez reconnaître l\'acceptation de nos conditions de confidentialité en cochant la case suivante. La notice de confidentialité peut être consultée <a href="'.zen_href_link(FILENAME_PRIVACY,'','SSL',
+    'TEXT_PRIVACY_CONDITIONS_DESCRIPTION' => 'Veuillez reconnaître l\'acceptation de nos conditions de confidentialité en cochant la case suivante. La notice de confidentialité peut être consultée <a href="'.zen_href_link(FILENAME_PRIVACY) . '"><span class="pseudolink">here</span></a>.',
     'TEXT_PRIVACY_CONDITIONS_CONFIRM' => 'J\'ai lu et suis d\'accord avec vos conditions de confidentialité.',
     'TABLE_HEADING_ADDRESS_DETAILS' => 'Vos coordonnées',
     'TABLE_HEADING_PHONE_FAX_DETAILS' => 'Détails additionnels de contact',
