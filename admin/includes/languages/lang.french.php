@@ -1,7 +1,7 @@
 <?php
 
 @setlocale(LC_TIME, ['fr_FR', 'fr_FR.utf8', 'fr', 'French_France.1252']);
-
+@setlocale(LC_TIME, $locales);
 $define = [
     'WHOS_ONLINE_ACTIVE_NO_CART_TEXT' => 'Actif sans panier',
     'WHOS_ONLINE_ACTIVE_TEXT' => 'Actif avec panier',
