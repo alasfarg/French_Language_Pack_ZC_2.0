@@ -1,7 +1,15 @@
 <?php
-
+/**
+ * @copyright Copyright 2003-2024 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id: DrByte 2024 Feb 23 Modified in v2.0.0-beta1 $
+ * @french version from 1.5.7 language pack from philibel
+ * Conversion to version 2.0.0 and correction from english from andrela
+*/
 @setlocale(LC_TIME, ['fr_FR', 'fr_FR.utf8', 'fr', 'French_France.1252']);
 @setlocale(LC_TIME, $locales);
+
 $define = [
     'WHOS_ONLINE_ACTIVE_NO_CART_TEXT' => 'Actif sans panier',
     'WHOS_ONLINE_ACTIVE_TEXT' => 'Actif avec panier',
