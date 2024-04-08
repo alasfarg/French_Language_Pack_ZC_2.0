@@ -2,7 +2,7 @@
 
 /**
  * French Language Pack
- * @version 2.0.0 rc2
+ * @version 2.0.0
  * @author Zen4All with minor adaptions for the French version by André Lasfargues
  * @copyright (c) 2014-2019, Zen4All
  * @license http://www.gnu.org/licenses/gpl.txt GNU General Public License V2.0
