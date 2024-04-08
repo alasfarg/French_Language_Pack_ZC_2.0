@@ -15,7 +15,7 @@ $define = [
     'TABLE_HEADING_ATTRIBUTES_PRICE_WORDS_FREE' => '- Mots gratuits:',
     'TABLE_HEADING_ATTRIBUTES_PRICE_LETTERS' => 'Prix par lettre:',
     'TABLE_HEADING_ATTRIBUTES_PRICE_LETTERS_FREE' => '- Lettres gratuites:',
-    'TABLE_HEADING_DOWNLOAD' => 'Produits downloadables:',
+    'TABLE_HEADING_DOWNLOAD' => 'Produits téléchargeables:',
     'TABLE_TEXT_FILENAME' => 'Fichier:',
     'TABLE_TEXT_MAX_DAYS' => 'Jours avant expiration: (0 = illimité)',
     'TABLE_TEXT_MAX_COUNT' => 'Nombre maximum de downloads:',
