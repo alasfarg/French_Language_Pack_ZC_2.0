@@ -1,6 +1,7 @@
 <?php
 $define = [
     'HEADING_TITLE' => 'Exécuteur de requêtes SQL',
+    'HEADING_INFO' => 'L\'exécuteur de requêtes SQL vous permet d\'exécuter des requêtes SQL directement sur la base de données en collant un script dans la zone de texte ou en téléchargeant un fichier texte contenant le script. Il est destiné à l\'installation manuelle des champs pour les Plugins et vos propres corrections/ajouts',
     'HEADING_WARNING' => 'ASSUREZ-VOUS DE FAIRE UNE SAUVEGARDE COMPLÈTE DE VOTRE BASE DE DONNÉES AVANT D\'EXÉCUTER DES SCRIPTS ICI.',
     'HEADING_WARNING2' => 'Si vous installez des contributions de tiers, notez que vous en prenez la responsabilité.<br>Zen Cart&reg; ne garantit en rien la sureté des scripts fournis par des tiers. Testez avant d\'utiliser sur votre base en production !',
     'HEADING_WARNING_INSTALLSCRIPTS' => 'NOTE : Les scripts Zen Cart® de mise à jour de la base de données NE DEVRAIENT PAS être exécutés depuis cette page.<br>À la place, veuillez uploader le nouveau répertoire <strong>zc_install</strong> et exécuter la mise à jour depuis ce répertoire pour une meilleure fiabilité.',
