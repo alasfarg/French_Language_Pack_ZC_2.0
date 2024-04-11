@@ -10,7 +10,6 @@ $define = [
     'HEADING_TITLE_DELETE_ENTRY' => 'Supprimer une entr&eacute;e du carnet d\'adresses',
     'HEADING_TITLE' => 'D&eacute;tails de l\'adresse',
     'DELETE_ADDRESS_DESCRIPTION' => 'Êtes-vous certain(e) de vouloir supprimer l\'adresse s&eacute;lectionn&eacute;e de votre carnet d\'adresses ?',
-    //'SET_AS_PRIMARY' => 'Établir en tant qu\'adresse principale.',
     'SUCCESS_ADDRESS_BOOK_ENTRY_DELETED' => 'L\'adresse s&eacute;lectionn&eacute;e a &eacute;t&eacute; supprim&eacute;e avec succ&egrave;s de votre carnet d\'adresses.',
     'SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED' => 'Votre carnet d\'adresses a &eacute;t&eacute; mis à jour avec succ&egrave;s.',
     'WARNING_PRIMARY_ADDRESS_DELETION' => 'L\'adresse principale ne peut pas être suprim&eacute;e. Veuillez d&eacute;finir une autre adresse comme adresse principale, et recommencez.',
