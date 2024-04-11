@@ -1,6 +1,5 @@
 <?php
-$define = [
-    
+$define = [    
 ];
 
 return $define;
