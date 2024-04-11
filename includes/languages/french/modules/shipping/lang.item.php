@@ -1,8 +1,8 @@
 <?php
 $define = [
     'MODULE_SHIPPING_ITEM_TEXT_TITLE' => 'Par Article',
-    'MODULE_SHIPPING_ITEM_TEXT_DESCRIPTION' => 'Par article',
-    'MODULE_SHIPPING_ITEM_TEXT_WAY' => 'La meilleure façon',
+    'MODULE_SHIPPING_ITEM_TEXT_DESCRIPTION' => 'Par Article',
+    'MODULE_SHIPPING_ITEM_TEXT_WAY' => 'La meilleure faÃ§on',
 ];
 
 return $define;
