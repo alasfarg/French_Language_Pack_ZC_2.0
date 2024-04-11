@@ -35,7 +35,7 @@ $define = [
   votre achat, le solde restant sera laissé dans votre ' . TEXT_GV_NAME . ' Solde pour un
   usage futur.',
     'SUB_HEADING_TITLE_4' => 'Rachat ' . TEXT_GV_NAMES,
-    'SUB_HEADING_TEXT_4' => 'Si vous recevez un ' . TEXT_GV_NAME . ' par e-mail, il contiendra les détails de la personne qui vou l\'a envoyé
+    'SUB_HEADING_TEXT_4' => 'Si vous recevez un ' . TEXT_GV_NAME . ' par e-mail, il contiendra les détails de la personne qui vous l\'a envoyé
   ' . TEXT_GV_NAME . ', accompagné d\'un court message de sa part. Le courriel
   contiendra également le ' . TEXT_GV_NAME . '' . TEXT_GV_REDEEM . '. C\'est probablement une bonne idée d\'imprimer
   cet e-mail pour référence future. Vous pouvez maintenant racheter le ' . TEXT_GV_NAME . '  de deux manières :<br><br>
